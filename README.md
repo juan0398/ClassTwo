@@ -45,4 +45,4 @@ Ademas de la sintaxis para lista se agrega [_],[x] o [X]
 ***
 ### Imagenes
 ![etiqueta](imagenes/imagen1.jpg)
-[![Alt text for your video](http://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://www.youtube.com/watch?v=T-D1KVIuvjA)
+[![Alt text for your video](http://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://youtu.be/vt5fpE0bzSY)
