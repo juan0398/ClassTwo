@@ -43,3 +43,5 @@ Ademas de la sintaxis para lista se agrega [_],[x] o [X]
 *[_] marco teorico
 *[x] Justificacion
 ***
+### Imagenes
+![etiqueta](imagenes/Imagen1)
