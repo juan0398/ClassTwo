@@ -44,4 +44,4 @@ Ademas de la sintaxis para lista se agrega [_],[x] o [X]
 *[x] Justificacion
 ***
 ### Imagenes
-![etiqueta](imagenes/Imagen1)
+![etiqueta](imagenes/Imagen1.jpg)
