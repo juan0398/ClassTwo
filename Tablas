@@ -1,0 +1,22 @@
+# clase 2
+
+## generear tablas
+~~~
+Alumno|Nota
+---|---
+Juan|4.3
+Luis|3.5
+Ana|4.0
+Pedro|2.2
+~~~
+### El resultado de ejecutar el codigo es el siguiente:
+
+Alumno|Nota
+---|---
+Juan|4.3
+Luis|3.5
+Ana|4.0
+Pedro|2.2
+
+### enlaces
+[No le des click](http://google.com)
